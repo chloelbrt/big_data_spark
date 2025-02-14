@@ -1,0 +1,5 @@
+fr/ensta/bigdata/PageCountMapper.class
+fr/ensta/bigdata/PageCount.class
+fr/ensta/bigdata/PageCountReducer.class
+fr/ensta/bigdata/PageCountMapper$Record.class
+fr/ensta/bigdata/Main.class

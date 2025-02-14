@@ -1,0 +1,5 @@
+"$HADOOP_HOME/bin/hdfs" namenode -format
+"$HADOOP_HOME/bin/hdfs" namenode
+"$HADOOP_HOME/bin/hdfs" datanode
+"$HADOOP_HOME/bin/hdfs" dfs -mkdir -p "/user/pcap_files"
+"$HADOOP_HOME/bin/hdfs" dfs -put pcap_file /user/pcap_files
